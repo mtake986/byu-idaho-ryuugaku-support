@@ -1,0 +1,10 @@
+export { default as Hero } from "./hero/Hero";
+export { default as Reasons } from "./reasons/Reasons";
+export { default as SupportPlans } from "./supportPlans/SupportPlans";
+export { default as Worries } from "./worries/Worries";
+export { default as BreakCommonSense } from "./breakCommonSense/BreakCommonSense";
+export { default as Recommend } from "./recommend/Recommend";
+export { default as ReasonWhy } from "./reasonWhy/ReasonWhy";
+export { default as Faqs } from "./faqs/Faqs";
+export { default as Sns } from "./sns/Sns";
+export { default as ScrollToTop } from "./scrollToTop/ScrollToTop";
