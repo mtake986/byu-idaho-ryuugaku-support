@@ -8,10 +8,10 @@ const Recommend = () => {
       <Image
         src={byui}
         alt="recommend"
-        className="h-[300px] object-cover object-center "
+        className="h-[350px] object-cover object-center "
       />
-      <div className="absolute top-0 h-[300px] w-screen bg-gradient-to-tr from-blue-700 to-cyan-400 opacity-50"></div>
-      <div className="absolute top-0 mt-5 sm:mt-10 w-screen px-5 pt-3 sm:pt-10 text-center sm:px-20 ">
+      <div className="absolute top-0 h-[350px] w-screen bg-gradient-to-tr from-blue-700 to-cyan-400 opacity-50"></div>
+      <div className="absolute top-1/2 -translate-y-1/2 sm:mt-10 w-screen px-5 pt-3 sm:pt-10 text-center sm:px-20 ">
         <h2 className="mb-5 text-3xl font-bold text-white sm:text-4xl">
           そんなあなたに、BYUアイダホがおすすめ！
         </h2>

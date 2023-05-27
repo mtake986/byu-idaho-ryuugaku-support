@@ -8,7 +8,7 @@ const Messages = () => {
     <div className="relative flex w-screen flex-col items-center justify-center pb-16 pt-32 sm:px-20 sm:py-32 ">
       <h2 className="mb-10 px-8 py-5 text-center font-accent text-3xl font-bold text-black sm:text-5xl sm:pt-20">
         <span className="">アメリカ留学の</span>
-        <span className="mr-2 whitespace-nowrap text-6xl italic text-red-600 drop-shadow-2xl sm:text-7xl">
+        <span className="mr-2 whitespace-nowrap text-5xl italic text-red-600 drop-shadow-2xl sm:text-7xl">
           常識
         </span>
         を覆す
