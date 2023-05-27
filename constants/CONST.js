@@ -297,7 +297,7 @@ export const supportPlans = {
     ],
   },
   afterArrival: {
-    price: 54800,
+    price: 59800,
     title: "到着後",
     subtitle: "いよいよスタート！不安な留学生活の始まりを安心に変える",
     payBack: {
