@@ -10,6 +10,7 @@ import {
   Faqs,
   Sns,
   ScrollToTop,
+  Service,
 } from "./index";
 import Appointment from "./Appointment";
 
@@ -26,6 +27,7 @@ const Main = () => {
         <Reasons />
         <SupportPlans />
       </div>
+      <Service />
       {/* <Attentions /> */}
       <Faqs />
       <Sns />
