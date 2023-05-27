@@ -6,7 +6,7 @@ import Cards from "./Cards";
 const Service = () => {
   return (
     <div className="container mx-auto my-10 max-w-5xl px-3 sm:my-32 sm:px-5">
-      <SectionTitle text="REASON WHY" />
+      <SectionTitle text="Service" />
       <CopyWritingText />
       <Cards />
     </div>
