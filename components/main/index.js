@@ -7,3 +7,4 @@ export { default as Recommend } from "./recommend/Recommend";
 export { default as Faqs } from "./faqs/Faqs";
 export { default as Sns } from "./sns/Sns";
 export { default as ScrollToTop } from "./scrollToTop/ScrollToTop";
+export { default as Service } from "./service/Service";
