@@ -7,7 +7,6 @@ import {
   Worries,
   BreakCommonSense,
   Recommend,
-  ReasonWhy,
   Faqs,
   Sns,
   ScrollToTop,
@@ -27,7 +26,6 @@ const Main = () => {
         <Reasons />
         <SupportPlans />
       </div>
-      <ReasonWhy />
       {/* <Attentions /> */}
       <Faqs />
       <Sns />
